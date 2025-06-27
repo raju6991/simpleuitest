@@ -1,0 +1,23 @@
+{
+  "name": "simpleuitest",
+  "version": "1.0.0",
+  "description": "This repo demonstrates how I used Selenium and Cypress for simple add/remove elements testing on The Internet website.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "pnpm exec cypress open",
+    "cypress:run": "pnpm exec cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "selenium",
+    "testing",
+    "automation",
+    "ui-test"
+  ],
+  "author": "Raju Lamsal",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.3",
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
