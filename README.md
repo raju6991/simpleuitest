@@ -1,4 +1,3 @@
-```markdown
 # 🧪 Add/Remove Elements Testing Project
 
 A complete manual and automated UI testing suite for the [Add/Remove Elements](https://the-internet.herokuapp.com/add_remove_elements/) feature on [The Internet Website](https://the-internet.herokuapp.com).
@@ -12,6 +11,7 @@ This project demonstrates best practices in:
 ---
 
 ## 📁 Project Structure
+
 ```
 
 simpleuitest/
@@ -30,7 +30,7 @@ simpleuitest/
 ├── README.md # Project guide
 └── ...
 
-````
+```
 
 ---
 
@@ -43,7 +43,7 @@ simpleuitest/
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-````
+```
 
 #### 2. Install dependencies
 
