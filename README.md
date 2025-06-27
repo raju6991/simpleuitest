@@ -1,5 +1,3 @@
-Here is a **complete `README.md`** for your `simpleuitest` project, with full instructions for both **manual and automation testing** using **Python (Selenium + pytest)** and **JavaScript (Cypress)**, including environment setup, structure, and future roadmap.
-
 ---
 
 ```markdown
@@ -16,6 +14,7 @@ This project demonstrates best practices in:
 ---
 
 ## 📁 Project Structure
+
 ```
 
 simpleuitest/
@@ -34,7 +33,7 @@ simpleuitest/
 ├── README.md # Project guide
 └── ...
 
-````
+```
 
 ---
 
@@ -47,7 +46,7 @@ simpleuitest/
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-````
+```
 
 #### 2. Install dependencies
 
